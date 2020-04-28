@@ -20,6 +20,7 @@ body{
     position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);}
     /*video가 빈틈없이 부모의 넓이와 맞춤,  그 결과 화면과 같은 빈틈없는 크기로 맞춰짐*/
 
+    
 header {
     position: fixed;
     width:700px; height:100%; 
